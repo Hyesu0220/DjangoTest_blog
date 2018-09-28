@@ -1,9 +1,8 @@
 # mysql.cnf
 
 [client]
-database = django_testdb
-host = localhost
-user = evr
-password = evr123$
-port = 51306
+database = nrk2023$django_testdb
+host = nrk2023.mysql.pythonanywhere-services.com
+user = nrk2023
+password = tkffk153*
 default-character-set = utf8
